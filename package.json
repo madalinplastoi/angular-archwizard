@@ -1,35 +1,29 @@
 {
-  "name": "@nubebytes/angular-archwizard",
-  "version": "14.0.1",
+  "name": "@tooktech/angular-archwizard",
+  "version": "17.0.1",
   "license": "MIT",
-  "description": "An Angular 14+ module containing a wizard component and its supporting components and directives",
-  "homepage": "https://github.com/irg1008/angular-archwizard",
+  "description": "An Angular 17+ module containing a wizard component and its supporting components and directives",
+  "homepage": "https://github.com/madalinplastoi/angular-archwizard",
   "author": {
     "name": "Marc Arndt",
     "email": "marc.arndt@masimi.de"
   },
   "peerDependencies": {
-    "@angular/core": ">=14 <= 16"
+    "@angular/core": ">=14 <=17"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/irg1008/angular-archwizard"
+    "url": "https://github.com/madalinplastoi/angular-archwizard"
   },
   "bugs": {
-    "url": "https://github.com/irg1008/angular-archwizard/issues"
+    "url": "https://github.com/madalinplastoi/angular-archwizard/issues"
   },
   "keywords": [
     "angular",
-    "angular9",
-    "angular10",
-    "angular11",
-    "angular 9",
-    "angular 10",
-    "angular 11",
     "angular 14",
-    "ng9",
-    "ng10",
-    "ng11",
+    "angular 15",
+    "angular 16",
+    "angular 17",
     "ng14",
     "ngx",
     "typescript",
